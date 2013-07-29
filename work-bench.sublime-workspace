@@ -1,0 +1,1039 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"commun",
+				"community_id"
+			],
+			[
+				"to_",
+				"to_community_id"
+			],
+			[
+				"to",
+				"to_community_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"defaul",
+				"default_closed_note"
+			],
+			[
+				"organization",
+				"organization_id"
+			],
+			[
+				"org",
+				"organization_id"
+			],
+			[
+				"loca",
+				"location_url"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"st",
+				"start_date"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"answer",
+				"AnswerChoice"
+			],
+			[
+				"adjsu",
+				"adjustable_id"
+			],
+			[
+				"question",
+				"question_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/index.html",
+			"settings":
+			{
+				"buffer_size": 19114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/_source/css/style.css",
+			"settings":
+			{
+				"buffer_size": 19562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/XX Archive/Robust Site/index.html",
+			"settings":
+			{
+				"buffer_size": 5202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/XX Archive/Robust Site/_source/css/style.css",
+			"settings":
+			{
+				"buffer_size": 11302,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Marked.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":w - Save"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/_source/css/progress2.css",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/_source/scss/progress2.scss",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/_source/css/progress.css",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/.gitignore",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/02/index.html",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/02/_source/css/style.css",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/02/_source/css/progress.css",
+		"/Users/robbfitzsimmons/Code/Consulting/work-bench/.dropbox",
+		"/Users/robbfitzsimmons/Dropbox/Consulting/work-bench/brochure site 2.0/XX Archive/Robust Site/index.html",
+		"/Users/robbfitzsimmons/Dropbox/Consulting/work-bench/brochure site 2.0/XX Archive/Robust Site/_source/css/style.css",
+		"/Users/robbfitzsimmons/Dropbox/Consulting/work-bench/brochure site 2.0/Versions/02/index.html",
+		"/Users/robbfitzsimmons/Dropbox/Consulting/work-bench/brochure site 2.0/Versions/02/_source/css/style.css",
+		"/Users/robbfitzsimmons/Downloads/Export-Wordpress-posts-to-Tumblr/wordpressToTumblr.php",
+		"/Users/robbfitzsimmons/Sites/laura/.powrc",
+		"/Users/robbfitzsimmons/Sites/laura/.rvmrc",
+		"/Users/robbfitzsimmons/Downloads/signups.csv",
+		"/Users/robbfitzsimmons/Downloads/farbtastic.css",
+		"/Users/robbfitzsimmons/Downloads/customize-controls%2edev.css",
+		"/Users/robbfitzsimmons/Downloads/customize-controls.css",
+		"/Users/robbfitzsimmons/Downloads/customize-controls-rtl%2edev.css",
+		"/Users/robbfitzsimmons/Downloads/customize-controls-rtl.css",
+		"/Users/robbfitzsimmons/Downloads/colors-fresh%2edev.css",
+		"/Users/robbfitzsimmons/Downloads/colors-fresh.css",
+		"/Users/robbfitzsimmons/Downloads/colors-classic%2edev.css",
+		"/Users/robbfitzsimmons/Downloads/colors-classic.css",
+		"/Users/robbfitzsimmons/Downloads/lau1224009562958.sql",
+		"/Users/robbfitzsimmons/Code/Personal/personal-syte/syte/templates/base.html",
+		"/Users/robbfitzsimmons/Code/Personal/personal-syte/syte/syte_settings.py",
+		"/Users/robbfitzsimmons/Code/Personal/personal-syte/syte/static/js/min/scripts-5.0.min.js",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/assets/javascripts/views/organizations.js.coffee",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/models/community.rb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/assets/javascripts/models/community.js.coffee",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/models/relation.rb",
+		"/Users/robbfitzsimmons/Downloads/trial_requests.csv",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/db/structure.sql",
+		"/Users/robbfitzsimmons/.dotfiles/git/aliases.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/system/aliases.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/zsh/config.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/zsh/prompt.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/zsh/zshrc.symlink",
+		"/Users/robbfitzsimmons/.dotfiles/system/path.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/system/env.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/sublime2/User/Preferences.sublime-settings",
+		"/Users/robbfitzsimmons/.dotfiles/script/bootstrap",
+		"/Users/robbfitzsimmons/.dotfiles/osx/set-defaults.sh",
+		"/Users/robbfitzsimmons/.dotfiles/git/gitconfig.symlink.example",
+		"/Users/robbfitzsimmons/.dotfiles/git/completion.zsh",
+		"/Users/robbfitzsimmons/.dotfiles/bin/subl",
+		"/Users/robbfitzsimmons/.dotfiles/bin/git-track",
+		"/Users/robbfitzsimmons/.dotfiles/bin/e",
+		"/Users/robbfitzsimmons/.dotfiles/README.markdown",
+		"/Users/robbfitzsimmons/Downloads/haa_alums_and_connections.json",
+		"/Users/robbfitzsimmons/Downloads/haa_alums.json",
+		"/Users/robbfitzsimmons/Downloads/haa.json",
+		"/Users/robbfitzsimmons/Downloads/proximate-v1/.gitignore",
+		"/Users/robbfitzsimmons/Downloads/launch-page/.gitignore",
+		"/Users/robbfitzsimmons/Downloads/proximate-beta-signup/models/.gitignore",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/layouts/parts/_header.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/config/routes.rb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/shared/_social_widget.html.erb",
+		"/Users/robbfitzsimmons/Downloads/rvf2010@gmail.com-takeout/Latitude/latitude.json",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/omniauth/already_taken.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/omniauth/close_error.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/pages/index.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/pages/manifesto.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/pages/terms.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/pages/privacy.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/layouts/parts/_footer.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/config/initializers/constants.rb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/shared/_terms.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/shared/_privacy.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/pages/_privacy.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/Gemfile",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/config/environments/test.rb",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/config/environments/development.rb",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/Gemfile",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/config/application.rb",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/config.ru",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/app/app.rb",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/app/controllers/main.rb",
+		"/Users/robbfitzsimmons/.localrc",
+		"/Users/robbfitzsimmons/Downloads/rvf2010@gmail.com-takeout/Hangouts/chat.json",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv3/app.rb",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_08/07_axes_format.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/02_bar_chart_with_scales.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/03_updates_all_data.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/06_duration.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/09_ease_linear.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/25_adding_values.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_09/26_removing_values.html",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv2/public/contact.html",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv2/Gemfile",
+		"/Users/robbfitzsimmons/Code/Consulting/nextgenv2/config.ru",
+		"/Users/robbfitzsimmons/Downloads/trial_signups.csv",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_06/15_making_a_bar_chart_even.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_06/04_power_of_data.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_06/11_drawing_svgs_color.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_06/03_drawing_divs_spaced.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_05/04_creating_paragraphs.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_05/01_empty_page_template.html",
+		"/Users/robbfitzsimmons/Code/Personal/d3-book/chapter_04/01_empty_page_template.html",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/app/views/authentication/_templates.html.erb",
+		"/Users/robbfitzsimmons/Code/Proximate/webapp/README.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/required-reading/Required-Reading.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/best-practices/Best-Practices.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/best-practices/practices/_Sidebar.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/best-practices/practices/Python.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/best-practices/practices/Deploying.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/best-practices/practices/Branch-Management.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/Creating-a-New-User.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/frontend-architecture/Frontend-Architecture.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/Creating-a-Community.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/Fetching-a-User.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/_Sidebar.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/testing/Testing.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/Manually-Creating-a-New-Membership.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/tasks/Sync-Databases.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/Key-Tasks.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/key-tasks/_Sidebar.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/worker-architecture/Worker-Architecture.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/backend-architecture/objects/_Sidebar.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/_Sidebar.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/frontend-architecture/Frontend-Object-Initialization-Process.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/backend-architecture/objects/Object-Hierarchy.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/Home.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/frontend-architecture/Creating-New-PXBackbone-Objects.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/backend-architecture/objects/Community.md",
+		"/Users/robbfitzsimmons/Code/Proximate/wiki/backend-architecture/objects/CommunityApplication.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"~/Code/Proximate/webapp/",
+			"<open folders>",
+			"",
+			"/Users/robbfitzsimmons/Code/Consulting/nextgenv2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setupTwitter",
+			"/robbfitzsimmons",
+			"HEAD",
+			"graph",
+			"d3",
+			"graph",
+			"git_info_for_prompt",
+			"terms",
+			"terms.html.erb",
+			"laura",
+			"linear",
+			"analytics",
+			"about",
+			"www.twitter.com/NGPAtweets",
+			"to publi",
+			"approach to",
+			"capital",
+			"http://twitter.com/nextgenPA",
+			"www.twitter.com/nextgenPA",
+			"slider",
+			"Suite 3100",
+			"Capital Development &amp; Transactions",
+			"follow",
+			"pat",
+			"socicon",
+			"git",
+			"lima",
+			"tx",
+			"austin",
+			"ignored",
+			"location",
+			"#",
+			"0052a5",
+			"e0162b",
+			"resend",
+			"user",
+			"115",
+			"79",
+			"[\\t]+",
+			"[ \\t]+",
+			"\\t",
+			"adjustment",
+			"welcome!",
+			"rss",
+			"toggle",
+			"checkbox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www.twitter.com/NGPAtweets",
+			"www.twitter.com/NGPAtweets",
+			"Suite 1400",
+			"Capital &amp; Transactions",
+			"002147",
+			"BB133E",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1600,
+								1600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/Versions/03/_source/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6060,
+								6060
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3592.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/XX Archive/Robust Site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/robbfitzsimmons/Code/Consulting/work-bench/XX Archive/Robust Site/_source/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3534,
+								3534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2999.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 1319.0
+	},
+	"project": "work-bench.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"progress2",
+				"Versions/03/_source/css/progress2.css"
+			],
+			[
+				"progress",
+				"Versions/03/_source/css/progress.css"
+			],
+			[
+				"progres",
+				"Versions/02/_source/css/progress.css"
+			],
+			[
+				"style",
+				"XX Archive/Robust Site/_source/css/style.css"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"wor",
+				"wordpressToTumblr.php"
+			],
+			[
+				"pow",
+				".powrc"
+			],
+			[
+				"scripts",
+				"syte/static/js/min/scripts-5.0.min.js"
+			],
+			[
+				"syte",
+				"syte/syte_settings.py"
+			],
+			[
+				"base",
+				"syte/templates/base.html"
+			],
+			[
+				"viewoganization",
+				"app/assets/javascripts/views/organizations.js.coffee"
+			],
+			[
+				"community",
+				"app/assets/javascripts/models/community.js.coffee"
+			],
+			[
+				"commun",
+				"app/models/community.rb"
+			],
+			[
+				"relation",
+				"app/models/relation.rb"
+			],
+			[
+				"sql",
+				"db/structure.sql"
+			],
+			[
+				"config",
+				"zsh/config.zsh"
+			],
+			[
+				"zsh/promt",
+				"zsh/prompt.zsh"
+			],
+			[
+				"system/",
+				"system/aliases.zsh"
+			],
+			[
+				"alias",
+				"git/aliases.zsh"
+			],
+			[
+				"read",
+				"README.markdown"
+			],
+			[
+				"bin/e",
+				"bin/e"
+			],
+			[
+				"git-trac",
+				"bin/git-track"
+			],
+			[
+				"bin/subl",
+				"bin/subl"
+			],
+			[
+				"aliass",
+				"git/aliases.zsh"
+			],
+			[
+				"completion",
+				"git/completion.zsh"
+			],
+			[
+				"gitconfig",
+				"git/gitconfig.symlink.example"
+			],
+			[
+				"set-def",
+				"osx/set-defaults.sh"
+			],
+			[
+				"script",
+				"script/bootstrap"
+			],
+			[
+				"sublime",
+				"sublime2/User/Preferences.sublime-settings"
+			],
+			[
+				"env.",
+				"system/env.zsh"
+			],
+			[
+				"path",
+				"system/path.zsh"
+			],
+			[
+				"prom",
+				"zsh/prompt.zsh"
+			],
+			[
+				"mani",
+				"app/views/pages/manifesto.html.erb"
+			],
+			[
+				"inde",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"footer",
+				"app/views/layouts/parts/_footer.html.erb"
+			],
+			[
+				"terms",
+				"app/views/pages/terms.html.erb"
+			],
+			[
+				"_terms",
+				"app/views/shared/_terms.html.erb"
+			],
+			[
+				"constant",
+				"config/initializers/constants.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"tes",
+				"config/environments/test.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"config/",
+				"config/application.rb"
+			],
+			[
+				"confi",
+				"config.ru"
+			],
+			[
+				"zsh",
+				"zsh/zshrc.symlink"
+			],
+			[
+				"contact",
+				"public/contact.html"
+			],
+			[
+				"04",
+				"chapter_05/04_creating_paragraphs.html"
+			],
+			[
+				"authenticationtemplate",
+				"app/views/authentication/_templates.html.erb"
+			],
+			[
+				"navbar",
+				"app/views/layouts/parts/_navbar.html.erb"
+			],
+			[
+				"backend",
+				"backend-architecture/objects/_Sidebar.md"
+			],
+			[
+				"worker",
+				"worker-architecture/Worker-Architecture.md"
+			],
+			[
+				"o",
+				"backend-architecture/objects/Object-Hierarchy.md"
+			],
+			[
+				"over",
+				"backend-architecture/objects/Overview-of-Major-Objects.md"
+			],
+			[
+				"back",
+				"backend-architecture/Backend-Architecture.md"
+			],
+			[
+				"tech",
+				"Technology-Stack.md"
+			],
+			[
+				"cach",
+				"system-infrastructure/components/Caching.md"
+			],
+			[
+				"social",
+				"system-infrastructure/components/caching/Social-Network-Caching.md"
+			],
+			[
+				"data",
+				"system-infrastructure/components/caching/Database-Caching.md"
+			],
+			[
+				"deve",
+				"system-infrastructure/components/caching/Asset-Caching-on-Development.md"
+			],
+			[
+				"asset",
+				"system-infrastructure/components/caching/Asset-Caching-on-Production.md"
+			],
+			[
+				"ra",
+				"system-infrastructure/components/caching/RABL-View-Caching.md"
+			],
+			[
+				"view",
+				"system-infrastructure/components/caching/View-Caching.md"
+			],
+			[
+				"",
+				"_Sidebar.md"
+			],
+			[
+				"ever",
+				"getting-started/Every-Time-Setup.md"
+			],
+			[
+				"herok",
+				"getting_started/Heroku.md"
+			],
+			[
+				"local",
+				"getting_started/Local-Processes.md"
+			],
+			[
+				"getting",
+				"getting_started/Getting-Started.md"
+			],
+			[
+				"get",
+				"getting_started/Get-The-Code.md"
+			],
+			[
+				"answer",
+				"app/models/answer.rb"
+			],
+			[
+				"community_",
+				"app/models/community_application.rb"
+			],
+			[
+				"sequence",
+				"public/assets/js/sequence.min.js"
+			],
+			[
+				"abou",
+				"public/about.html"
+			],
+			[
+				"manager",
+				"lib/tasks/manager.rb"
+			],
+			[
+				"conta",
+				"public/contact.html"
+			],
+			[
+				"advoc",
+				"public/advocacy.html"
+			],
+			[
+				"tran",
+				"public/transactions.html"
+			],
+			[
+				"about",
+				"public/about.html"
+			],
+			[
+				"ind",
+				"public/index-flex-boxed.html"
+			],
+			[
+				"man",
+				"lib/tasks/manager.rb"
+			],
+			[
+				"authent",
+				"app/assets/javascripts/models/authentication.js.coffee"
+			],
+			[
+				"tasks",
+				"lib/tasks/manager.rb"
+			],
+			[
+				"tasksmanager",
+				"lib/tasks/manager.rb"
+			],
+			[
+				"careers",
+				"~/Dropbox/Proximate/Customers/Sold/Harvard_Alumni_Association_05_06_13/gnn_careers.txt"
+			],
+			[
+				"quest",
+				"app/models/question.rb"
+			],
+			[
+				"create",
+				"lib/tasks/create_communities.rake"
+			],
+			[
+				"rake",
+				"lib/tasks/create_communities.rake"
+			],
+			[
+				"index.t",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"index.html",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"question",
+				"app/models/question.rb"
+			],
+			[
+				"pagesindex",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"pages",
+				"app/assets/javascripts/manifests/pages.js.coffee"
+			],
+			[
+				"organization",
+				"app/models/organization.rb"
+			],
+			[
+				"main",
+				"public/css/main.css"
+			],
+			[
+				"communit",
+				"app/models/community.rb"
+			],
+			[
+				"in",
+				"public/index.html"
+			],
+			[
+				"community.rb",
+				"app/models/community.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"usersshow",
+				"app/views/users/show.json.rabl"
+			],
+			[
+				"modelpurhc",
+				"app/models/purchase.rb"
+			],
+			[
+				"communitiesrake",
+				"lib/tasks/create_communities.rake"
+			],
+			[
+				"questionstem",
+				"app/views/questions/_templates.html.erb"
+			],
+			[
+				"commrake",
+				"lib/tasks/create_communities.rake"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
